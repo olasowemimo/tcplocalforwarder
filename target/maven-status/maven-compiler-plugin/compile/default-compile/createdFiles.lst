@@ -1,0 +1,5 @@
+microsoft\azure\relay\bridge\LocalForwarder\TcpLocalForwardBridge.class
+microsoft\azure\relay\bridge\LocalForwarder\LocalForwardHost.class
+microsoft\azure\relay\bridge\LocalForwarder\LocalForwardSetting.class
+microsoft\azure\relay\bridge\TcpRemoteForwarder.class
+microsoft\azure\relay\bridge\LocalForwarder\LocalForwardBinding.class
